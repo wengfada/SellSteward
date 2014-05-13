@@ -1,0 +1,149 @@
+# view AndroidManifest.xml #generated:42
+-keep class android.test.InstrumentationTestRunner { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.baidu.pcs.yun.BKDataActivity { <init>(...); }
+
+# view res/layout/activity_image.xml #generated:12
+-keep class com.example.gallery_3d.ImageZoomView { <init>(...); }
+
+# view AndroidManifest.xml #generated:160
+-keep class com.fada.sellsteward.AboutActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:88
+-keep class com.fada.sellsteward.AutoActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:135
+-keep class com.fada.sellsteward.CustomerDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:143
+-keep class com.fada.sellsteward.DetailInWaresActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:80
+-keep class com.fada.sellsteward.DetailInWaresSellActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.fada.sellsteward.GoSellWaresActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class com.fada.sellsteward.InputInWaresActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.fada.sellsteward.InputSellActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:152
+-keep class com.fada.sellsteward.InputTextActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:67
+-keep class com.fada.sellsteward.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:139
+-keep class com.fada.sellsteward.MoreActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:58
+-keep class com.fada.sellsteward.ProImageActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.fada.sellsteward.SearchActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:127
+-keep class com.fada.sellsteward.SellDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:71
+-keep class com.fada.sellsteward.WaresActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:131
+-keep class com.fada.sellsteward.WaresDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class com.fada.sellsteward.WaresNoStockDetailActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:172
+-keep class com.fada.sellsteward.db.MyContentProvider { <init>(...); }
+
+# view AndroidManifest.xml #generated:115
+-keep class com.fada.sellsteward.gallery_3d.Iamge3DActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:119
+-keep class com.fada.sellsteward.gallery_3d.ImageActivity { <init>(...); }
+
+# view res/layout/activity_main3d.xml #generated:32
+# view res/layout/wares.xml #generated:338
+-keep class com.fada.sellsteward.gallery_3d.ImageZoomView { <init>(...); }
+
+# view res/layout/activity_main3d.xml #generated:7
+# view res/layout/wares.xml #generated:313
+-keep class com.fada.sellsteward.gallery_3d.MyGallery { <init>(...); }
+
+# view AndroidManifest.xml #generated:107
+-keep class com.fada.sellsteward.myweibo.sina.weibo.PlayWeiboActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.fada.sellsteward.myweibo.sina.weibo.WebViewActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:164
+-keep class com.fada.sellsteward.scalecode.CaptureActivity { <init>(...); }
+
+# view res/layout/activity_code.xml #generated:12
+-keep class com.fada.sellsteward.scalecode.view.ViewfinderView { <init>(...); }
+
+# view AndroidManifest.xml #generated:46
+-keep class com.fada.sellsteward.service.MyApp { <init>(...); }
+
+# view AndroidManifest.xml #generated:177
+-keep class com.fada.sellsteward.service.SellService { <init>(...); }
+
+# view res/layout/activity_serach.xml #generated:50
+-keep class com.fada.sellsteward.view.KeywordsFlow { <init>(...); }
+
+# view res/layout/activity_more.xml #generated:27
+# view res/layout/activity_more.xml #generated:35
+# view res/layout/activity_more.xml #generated:44
+# view res/layout/activity_more.xml #generated:53
+-keep class com.fada.sellsteward.view.MyImageView { <init>(...); }
+
+# view res/layout/main.xml #generated:29
+# view res/layout/setting_about.xml #generated:27
+-keep class com.fada.sellsteward.view.MyTextView { <init>(...); }
+
+# view res/layout/main.xml #generated:19
+-keep class com.fada.sellsteward.view.ProgressImage { <init>(...); }
+
+# view res/layout/time_layout.xml #generated:29
+# view res/layout/time_layout.xml #generated:34
+# view res/layout/time_layout.xml #generated:39
+# view res/layout/time_layout.xml #generated:44
+# view res/layout/time_layout.xml #generated:49
+-keep class com.fada.sellsteward.wheelview.WheelView { <init>(...); }
+
+# view AndroidManifest.xml #generated:92
+-keep class com.tencent.weibo.webview.OAuthV1AuthorizeWebView { <init>(...); }
+
+# view AndroidManifest.xml #generated:98
+-keep class com.tencent.weibo.webview.OAuthV2AuthorizeWebView { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class com.umeng.common.net.DownloadingService { <init>(...); }
+
+# view AndroidManifest.xml #generated:181
+-keep class com.umeng.fb.ContactActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.umeng.fb.ConversationActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:188
+-keep class com.umeng.update.UpdateDialogActivity { <init>(...); }
+
+# view res/layout/local_password_mgr.xml #generated:17
+# view res/layout/stat_chart_property_sum_tab.xml #generated:14
+# view res/layout/stat_chart_property_sum_tab.xml #generated:19
+# view res/layout/stat_chart_property_sum_tab.xml #generated:24
+# view res/layout/stat_chart_property_sum_tab.xml #generated:7
+-keep class com.wacai365.widget.AutoAdjustTextView { <init>(...); }
+
+# view res/layout/bottom_back_add.xml #generated:5
+# view res/layout/bottom_back_save.xml #generated:6
+# view res/layout/stat_chart_property_sum_tab.xml #generated:6
+# view res/layout/stat_chart_property_sum_tab.xml #generated:8
+-keep class com.wacai365.widget.Button { <init>(...); }
+
